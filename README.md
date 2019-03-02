@@ -4,8 +4,8 @@
 
 ## Data
 
-webtext corpora embeded in NLTK library. 
-This corpora is a small corpora which consists of web and chat texts.
+webtext corpora embeded in NLTK library. </br>
+This corpora is a small corpora which is comprised of web and chat texts.
 
 ## Libraries
 
